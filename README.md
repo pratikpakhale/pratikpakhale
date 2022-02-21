@@ -26,5 +26,5 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, ReactJs, NodeJs, ExpressJs, Python, Tailwind, MongoDB, Firebase, Netlify
+Javascript, HTML, CSS, ReactJs, NodeJs, ExpressJs, Python, Tailwind, Firebase, Netlify
 
