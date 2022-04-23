@@ -12,11 +12,11 @@
 
 
 ## Common Stuffs
-👩‍💻 I'm currently working on [Tweemarks](https://tweemarks.tk) Open-Source [@tweemarks](https://github.com/tweemarks), [tiNyy Url Shortener](https://tinyy.ml), [Secret Chats](https://secretchats.ml)
+👩‍💻 I'm currently working on [Tweemarks](https://tweemarks.tk) Open-Source [@tweemarks](https://github.com/tweemarks), [tiNyy Url Shortener](https://tinyy.ml) & [Secret Chats](https://secretchats.ml)
 
-🧠 I'm currently learning NodeJs Advances
+🧠 I'm currently deep diving into NodeJs and React
 
-💬 Ask me about ReactsJs + Vanilla Js
+💬 Ask me about basic web development technologies.
 
 📫 How to reach me 📧 pratikpakhale20@gmail.com or Twitter DM me
 
