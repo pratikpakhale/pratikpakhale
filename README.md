@@ -2,7 +2,7 @@
 # Hi, I'm Pratik! 👋
 
 
-🚀 Aspiring Full-Stack Dev!
+🚀 Aspiring Full-Stack Developer!
 
 
 ## 🔗 Social Links
@@ -12,13 +12,13 @@
 
 
 ## Common Stuffs
-👩‍💻 I'm currently working on [Tweemarks](https://tweemarks.tk) Open-Source [@tweemarks](https://github.com/tweemarks), [tiNyy Url Shortener](https://tinyy.ml) & [Secret Chats](https://secretchats.ml)
+👩‍💻 Working on [Tweemarks](https://tweemarks.tk) Open-Source [@tweemarks](https://github.com/tweemarks), [tiNyy Url Shortener](https://tinyy.ml) & [Secret Chats](https://secretchats.ml)
 
-🧠 I'm currently deep diving into NodeJs and React
+🧠 Deep diving into NodeJs and React
 
-💬 Ask me about basic web development technologies.
+💬 Ask me about web development technologies.
 
-📫 How to reach me 📧 pratikpakhale20@gmail.com or Twitter DM me
+📫 Reach me 📧 pratikpakhale20@gmail.com or Twitter DM me
 
 😄 Pronouns He/Him
 
@@ -26,5 +26,5 @@
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, ReactJs, NodeJs, ExpressJs, Python, Tailwind, Firebase, Netlify
+MERN, Python, Tailwind, Firebase, Netlify
 
