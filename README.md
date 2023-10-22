@@ -4,7 +4,7 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Computer Science and Engineering Sophomore at IIIT Dharwad, Karnataka \
+🎓 &nbsp;I'm a Computer Science and Engineering Undergrad at IIIT Dharwad, Karnataka \
 🌱 &nbsp;I'm a full stack web developer w/ a 💖 for Javascript \
 🏊 &nbsp;I also am an avid swimmer ;)
 
