@@ -5,12 +5,12 @@
 ### 👨‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm a Computer Science and Engineering Undergrad at IIIT Dharwad \
-🌱 &nbsp;I'm a developer w/ a 💖 for Javascript \
+🌱 &nbsp;I'm a developer w/ a 💖 for Web \
 🏊 &nbsp;I also am an avid swimmer ;)
 
 <br>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Some tools and languages that I've worked with -
 
 
 <br clear="both">
