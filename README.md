@@ -4,7 +4,6 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Computer Science and Engineering Undergrad at IIIT Dharwad \
 🌱 &nbsp;I'm a developer w/ a 💖 for Web \
 🏊 &nbsp;I also am an avid swimmer ;)
 
