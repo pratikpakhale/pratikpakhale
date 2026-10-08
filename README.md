@@ -3,7 +3,7 @@
   <img alt="a pixel cat runs in, naps, wakes up and runs off" src="./cat-light.svg">
 </picture>
 
-<p align="center"><sub><i>the cat is asleep. so is pratik, probably.</i></sub></p>
+<p align="center"><sub><i>the cat is asleep. so am i, probably.</i></sub></p>
 
 <br>
 
